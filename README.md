@@ -5,7 +5,7 @@ We fine-tuned an existing language model (distilBERT) to identify the amount of 
 
 Expected setup:
  - .csv file with narratives located in your google drive
- - .csv file has at least three columns called 'participantID', 'prompt', and 'text'. These column names should be spelled exactly as they are here.
+ - .csv file has at least three columns called 'participantID', 'prompt', and 'text'. If you wnat to use this without modifying code, it is important to use this exact spelling of these column names.
  - 
 
   
