@@ -3,9 +3,10 @@
 
 We fine-tuned an existing language model (distilBERT) to identify the amount of internal and external content in each sentence. These predictions can be aggregated to obtain internal and external content estimates for each narrative. This colab notebook makes it easy to apply this approach to your own data!
 
-Expected input:
- - .csv file located in your google drive
- - with at least three columns called '', '', and ''.
+Expected setup:
+ - .csv file with narratives located in your google drive
+ - .csv file has at least three columns called 'participantID', 'prompt', and 'text'. These column names should be spelled exactly as they are here.
+ - 
 
   
 
