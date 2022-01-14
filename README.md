@@ -4,6 +4,7 @@ This code takes narratives as inputs and generates internal and external scores 
 
 <br />
 <br />
+
 Expected setup:
  - the .csv file that contains your narratives is located on your google drive. (.xlsx files not currently accepted, so please convert to .csv)
  - .csv file includes three columns called 'participantID', 'prompt', and 'text'. 
