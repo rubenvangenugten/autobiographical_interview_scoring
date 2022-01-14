@@ -8,8 +8,8 @@ This code takes narratives as inputs and generates internal and external scores 
 Expected setup:
  - the .csv file that contains your narratives is located on your google drive. (.xlsx files not currently accepted, so please convert to .csv)
  - .csv file includes three columns called 'participantID', 'prompt', and 'text'. 
- - Data are in long format (e.g. row 1 might be data from participant 1, prompt 1, and the corresponding response; row 2 might be data from participant 1, prompt 2, and the corresponding response)
- - narratives, which are stored in the 'text' column (one per row), were written by participants or have been transcribed with lots of punctuation.
+ - Data are in [long/narrow format](https://en.wikipedia.org/wiki/Wide_and_narrow_data). This means that row 1 contains data from participant 1, prompt 1, and the corresponding response. Row 2 contains data from participant 1, prompt 2, and the corresponding response. And so on.
+ - narratives, which are stored in the 'text' column, were written by participants or have been transcribed with lots of punctuation.
  - there are no unmatched qoutes (") in the narratives. Our sentence splitting algorithm may have problems with unmatched qoutes.
 
 <br />
