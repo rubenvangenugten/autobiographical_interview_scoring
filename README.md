@@ -1,6 +1,6 @@
 <h1 align="center">Automated Scoring of Autobiographical Interview Narratives </h1>
 
-This code takes narratives as inputs and generates internal and external contnet scores as outputs. We  use a fine-tuned language model (distilBERT) to identify the amount of internal and external content in each sentence. These predictions are aggregated to obtain internal and external content estimates for each narrative. The colab notebook makes it easy to apply this approach to your own data!
+This code takes narratives as inputs and generates internal and external scores as outputs. We  use a fine-tuned language model (distilBERT) to identify the amount of internal and external content in each sentence. These predictions are aggregated to obtain internal and external content estimates for each narrative. The colab notebook makes it easy to apply this approach to your own data!
 
 
 Expected setup:
