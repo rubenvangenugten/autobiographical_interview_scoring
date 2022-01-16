@@ -20,9 +20,11 @@ Expected data:
 Instructions for use:
   - Login to google drive on your computer. Create a folder with your data (you can use example_data.csv provided here if you would like an example).
   - Click on 'automated_autobiographical_interview_scoring_shared.ipynb' here on github.
-  - Once this document opens, click on the following button at the top:![image](https://user-images.githubusercontent.com/43548396/149639845-ef10888e-0090-45c1-9062-bc6fbe09a18e.png)
-  - After the above step launches google colab in your browser, click on the following button at the top: ![image](https://user-images.githubusercontent.com/43548396/149639889-361a3787-b5d1-439f-bb81-399dc367b515.png) You now have the notebook saved in your google drive! 
-  - Open the file from your google drive, and it will give you instructions on how to run it!
+  - Once this document opens, click on the following button at the top:
+     ![image](https://user-images.githubusercontent.com/43548396/149639845-ef10888e-0090-45c1-9062-bc6fbe09a18e.png)
+  - After the above step launches google colab in your browser, click on the following button at the top:
+     ![image](https://user-images.githubusercontent.com/43548396/149639889-361a3787-b5d1-439f-bb81-399dc367b515.png) 
+  - You now have the notebook saved in your google drive! Now, follow the instructions in the notebook!
 
 <br />
 <br />
