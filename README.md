@@ -25,7 +25,7 @@ Instructions for use:
     <br />
     ![image](https://user-images.githubusercontent.com/43548396/149639845-ef10888e-0090-45c1-9062-bc6fbe09a18e.png)
     <br />
-   - To run the code, click 'runtime' -> 'run all' in your menu bar! Results should appear in the same folder as your data. 
+   - To run the code, click 'runtime' -> 'run all' in your menu bar. Results should appear in the same folder as your data once the code is done running! 
 
 <br />
 <br />
