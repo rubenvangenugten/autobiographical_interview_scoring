@@ -1,5 +1,3 @@
-IN PROGRESS, DO NOT USE YET
-
 <h1 align="center">Automated Scoring of Autobiographical Interview Narratives </h1>
 
 <br />
@@ -20,7 +18,8 @@ Expected data characteristics:
 <br />
 
 Instructions for use:
-  - Login to google drive on your computer. Create a folder in My Drive called 'automated_autobiographical_interview_scoring'. Place your data (called data.csv) in this folder (you can use example_data.csv provided here if you would like an example, but make sure to change the name to 'data.csv').
+  - Login to google drive and create a folder in My Drive called 'automated_autobiographical_interview_scoring'. Place your data (called data.csv) in this folder. 
+      - You can use example_data.csv provided here if you would like an example, but make sure to change the name to 'data.csv'.
   - Click on the file 'automated_autobiographical_interview_scoring_shared.ipynb' here on github.
   - Once this document opens, click on the following button at the top:
     <br />
