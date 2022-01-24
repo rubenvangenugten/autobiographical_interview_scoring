@@ -6,6 +6,20 @@ This code takes narratives as inputs and generates internal and external scores 
 <br />
 <br />
 
+
+Instructions for use:
+  - Login to google drive and create a folder in My Drive called 'automated_autobiographical_interview_scoring'. Place your data (called data.csv) in this folder. 
+  - Click on the file 'automated_autobiographical_interview_scoring_shared.ipynb' here on github.
+  - Once this document opens, click on the following button at the top:
+    <br />
+    ![image](https://user-images.githubusercontent.com/43548396/149639845-ef10888e-0090-45c1-9062-bc6fbe09a18e.png)
+    <br />
+   - To run the code, click 'runtime' -> 'run all' in your menu bar. Results should appear in the same folder as your data once the code is done running! 
+
+<br />
+<br />
+
+
 Expected data characteristics:
  - Your data are stored as a .csv file (.xlsx files not currently accepted, so please convert to .csv)
  - The .csv file that contains your narratives is located on your google drive.
@@ -17,15 +31,7 @@ Expected data characteristics:
 <br />
 <br />
 
-Instructions for use:
-  - Login to google drive and create a folder in My Drive called 'automated_autobiographical_interview_scoring'. Place your data (called data.csv) in this folder. 
-      - You can use example_data.csv provided here if you would like an example, but make sure to change the name to 'data.csv'.
-  - Click on the file 'automated_autobiographical_interview_scoring_shared.ipynb' here on github.
-  - Once this document opens, click on the following button at the top:
-    <br />
-    ![image](https://user-images.githubusercontent.com/43548396/149639845-ef10888e-0090-45c1-9062-bc6fbe09a18e.png)
-    <br />
-   - To run the code, click 'runtime' -> 'run all' in your menu bar. Results should appear in the same folder as your data once the code is done running! 
+Feel free to reach out to ruben_vangenugten@g.harvard.edu with questions.
 
 <br />
 <br />
@@ -34,10 +40,6 @@ Future changes
 - [ ] Add test to check if the input data is in the correct format
 - [ ] Allow .xlsx files
 - [ ] Add test to check if data is properly punctuated
-
-<br />
-<br /> 
-Feel free to reach out to ruben_vangenugten@g.harvard.edu with questions.
 
 
 
