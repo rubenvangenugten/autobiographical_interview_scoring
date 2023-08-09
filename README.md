@@ -31,7 +31,7 @@ Expected data characteristics:
 <br />
 <br />
 
-Feel free to reach out to ruben_vangenugten@g.harvard.edu with questions.
+Feel free to reach out to r.vangenugten@northeastern.edu with questions.
 
 <br />
 <br />
