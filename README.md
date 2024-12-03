@@ -31,7 +31,7 @@ Expected data characteristics:
 <br />
 <br />
 
-Feel free to reach out to r.vangenugten@northeastern.edu with questions.
+Feel free to reach out to r.vangenugten@northeastern.edu with questions. Ongoing work is expanding this project with more performant language models and subcategory scoring, amongst other aims.
 
 <br />
 <br />
